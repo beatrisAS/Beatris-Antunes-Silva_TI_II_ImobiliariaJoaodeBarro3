@@ -1,7 +1,3 @@
-Aqui está o texto do **README.md** para postar no GitHub, seguindo o modelo que você forneceu:
-
----
-
 # Banco de Dados para Gestão de Condomínios
 
 Este repositório contém a implementação de um **Banco de Dados para Gestão de Condomínios**, desenvolvido como parte das atividades da **Agenda 5** da disciplina **Tecnologia da Informação II** no curso **Técnico em Desenvolvimento de Sistemas**.
